@@ -2,10 +2,11 @@
 
 + **Descrição do Problema**
 
+  Este é um problema matemático que se utiliza da computação para sua resolução. É muito comum que os professores de programação passem este tipo de exercícios para os alunos, pois ao mesmo tempo que verifica a capacidade de programação do aluno, verifica também a sua capacidade de raciocínio lógico e matemático.
 
 + **Apresentação da solução em linguagem matemática**
 
-  Se _n = a * b_, então _(a + b)/2_ é uma aproximação de _√n_ que melhora com a aproximação de _a_ e _b_, ou seja, quanto mais próximos forem dois números, a média deles é uma aproximação da raiz quadrada do produto entre eles.
+  Se _n = a * b_, então _(a + b)/2_ é uma aproximação de _√n_ que fica cada vez mais próximo do resultado verdadeiro conforme aproximamos _a_ e _b_.
 
 + **Apresentação da solução em Português Estruturado**
 
