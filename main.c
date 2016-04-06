@@ -12,7 +12,7 @@ int main(void)
 
 double raizq(double entrada)
 {
-	double x1, x2 = 0.0;
+	double x1, x2;
 	
 	x1 = (entrada + 1.0)/2.0;
 	
