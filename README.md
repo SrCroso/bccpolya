@@ -13,8 +13,10 @@ Algoritmo CalculodeRaizAproximada
 ```
   Início
     Var
-      Entrada
-      
+      Entrada, x1, x2: real
+      Ler (entrada)
+      Aproximar (x1, x2) até que estejam muito próximos
+      Escrever (raiz quadrada da entrada)
   Fim
 ```
 + **Apresentação da solução em Fluxograma**
