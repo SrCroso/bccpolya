@@ -10,13 +10,13 @@
 + **Apresentação da solução em Português Estruturado**
 
 Algoritmo CalculodeRaizAproximada
-`
+```
   Início
     Var
       Entrada
       
   Fim
-`
+```
 + **Apresentação da solução em Fluxograma**
 
 
