@@ -5,6 +5,7 @@
 
 + **Apresentação da solução em linguagem matemática**
 
+Se _n = a * b_, então _(a + b)/2_ é uma aproximação de _√n_ que melhora com a aproximação de _a_ e _b_, ou seja, quanto mais próximos forem dois números, a média deles é uma aproximação da raiz quadrada do produto entre eles.
 
 + **Apresentação da solução em Português Estruturado**
 
